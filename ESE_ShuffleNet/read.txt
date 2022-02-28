@@ -1,0 +1,3 @@
+'train_fire_nofire.py'  demo the network train.
+'test_fire_nofire.py'   demo the network test.
+the train and test images need to be placed in 'data' folder.
